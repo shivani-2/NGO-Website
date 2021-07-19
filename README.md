@@ -15,7 +15,7 @@ PS: To run admin side, go to the LOGIN Page, and click on "Click here for admin 
 
 
 
-Problem Statement: The main aim of this project is to give back to society by volunteering or by donating.
+### Problem Statement: The main aim of this project is to give back to society by volunteering or by donating.
 
 CLIENT SIDE:
 1) The website has a fully funcitoning signup and login page where a user can register, either to donate or to volunteer. 

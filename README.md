@@ -1,6 +1,19 @@
 # NGO Website
 A full-stack website created using HTML, CSS & Bootstrap, JS for front-end and MySQL, PHP for backend. Implemented using XAMPP.
  
+  
+## Steps to run the website on your PC:
+
+1) Make sure your XAMPP is upto date (version 3.2.4 and above).
+2) After downloading this project, move this folder to C:\xampp\htdocs
+3) Start your Apache and MySQL server. (MySQL PORT: 3307)
+4) Import the ngo.sql in your PHPMyAdmin. 
+5) Then run this folder in your browser via your http://localhost/<FOLDER_NAME>/index.php
+
+PS: To run admin side, go to the LOGIN Page, and click on "Click here for admin login".
+
+
+
 
 Problem Statement: The main aim of this project is to give back to society by volunteering or by donating.
 
@@ -16,14 +29,3 @@ ADMIN SIDE:
 2) The admin can schedule a new event or delete a pre-existing event conducted by an NGO, where the events show up dynamically on the events page.
 3) Once an event is conducted, the event automatically moves to the past event.
 4) The admin has an access of the list of users who volunteered and donated to the NGO.
-
-
-Steps to run the website on your PC:
-
-1) Make sure your XAMPP is upto date (version 3.2.4 and above).
-2) After downloading this project, move this folder to C:\xampp\htdocs
-3) Start your Apache and MySQL server. (MySQL PORT: 3307)
-4) Import the ngo.sql in your PHPMyAdmin. 
-5) Then run this folder in your browser via your http://localhost/<FOLDER_NAME>/index.php
-
-PS: To run admin side, go to the LOGIN Page, and click on "Click here for admin login".

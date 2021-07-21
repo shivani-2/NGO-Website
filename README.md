@@ -1,6 +1,7 @@
 # NGO Website
 A full-stack website created using HTML, CSS & Bootstrap, JS for front-end and MySQL, PHP for backend. Implemented using XAMPP.
  
+ <img src="https://raw.githubusercontent.com/shivani-2/NGO-Website/master/ngo1.PNG" width="800px" height="400px">
   
 ## Steps to run the website on your PC:
 
